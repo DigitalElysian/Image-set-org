@@ -1,0 +1,7 @@
+data/net.davidholt.imageorg.desktop.in
+data/net.davidholt.imageorg.appdata.xml.in
+data/net.davidholt.imageorg.gschema.xml
+src/imageorgmp-window.ui
+src/main.c
+src/imageorgmp-window.c
+
